@@ -82,7 +82,7 @@ section{
 
 @media screen and (max-width:700px){
     .believes{
-        max-width:30%;
+        max-width:40%;
     
     }
 }
@@ -100,7 +100,7 @@ section{
     }
 
     .believes, .doctor{
-        min-width:60%;
+        min-width:80%;
     
     }
      .mission{
